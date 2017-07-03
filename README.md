@@ -12,9 +12,7 @@ Python 2.6+ / Python 3.3+
 
 ## Usage
 
-These instructions can also be found in the [official documentation](https://s3-us-west-2.amazonaws.com/mbed-cloud-sdk-python/index.html#quickstart):
-
-1. Create API key in the [mbed Cloud Portal](https://portal.mbedcloud.com/).
+1. Create API key in the mbed Cloud Portal.
 
 2. Create configuration file in `$HOME` or project directory (`.mbed_cloud_config.json`):
 
